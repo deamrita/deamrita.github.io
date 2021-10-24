@@ -8,23 +8,22 @@
                     "project_span_texts":["Applying the foundational Python skills by manipulating and visualizing movie and TV data.",
                     "Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market."]
                     },
-        "R" : {"link":["https://github.com/deamrita/Investigating-Netflix-Movies","https://github.com/deamrita/App-Market-Analysis-on-PlayStore"],
-        "image_urls":["images/nf.jpg","images/playstore.jpg"],
-        "a_links_texts":["Give R Link Text here","GIve R link text here 2"],
-        "project_span_texts":["Give R desc here",
-        "Give R desc here for project2"]
+        "R" : {"link":[],
+        "image_urls":["images/coming soon.jpeg"],
+        "a_links_texts":["I am Still exploring and learning R"],
+        "project_span_texts":[]
         },
-        "Tableau" : {"link":["https://github.com/deamrita/Investigating-Netflix-Movies","https://github.com/deamrita/App-Market-Analysis-on-PlayStore"],
-        "image_urls":["images/nf.jpg","images/playstore.jpg"],
-        "a_links_texts":["Invesgating Netflix Movies","App Market Analysis on PlayStore"],
-        "project_span_texts":["Applying the foundational Python skills by manipulating and visualizing movie and TV data.",
-        "Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market."]
+        "Tableau" : {"link":["https://public.tableau.com/app/profile/amrita.de7431/viz/ICCT20WC_DataAnalysis/Dashboard1","https://public.tableau.com/app/profile/amrita.de7431/viz/CovidDashboardOct21/Covid19Dashboardworldwide"],
+        "image_urls":["images/t1.png","images/t2.png"],
+        "a_links_texts":["ICCT20WC_DataAnalysis","Covid Dashboard Oct21"],
+        "project_span_texts":["As the ICC Men's T20 World Cup 2021 has been started, here is a Tableau Visualization of records from past seasons (2007 to 2016) including different viz. like Top Batters with most runs, Best Strike Rates, most no of 6's, players with most no. of catches.",
+        "Worldwide Covid19 Data Viz for Oct2021."]
         },
-        "SQL" :{"link":["https://github.com/deamrita/Investigating-Netflix-Movies","https://github.com/deamrita/App-Market-Analysis-on-PlayStore"],
-        "image_urls":["images/sql_img.png","images/playstore.jpg"],
-        "a_links_texts":["Invesgating Netflix Movies","App Market Analysis on PlayStore"],
-        "project_span_texts":["Applying the foundational Python skills by manipulating and visualizing movie and TV data.",
-        "Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market."]
+        "SQL" :{"link":["https://github.com/deamrita/ICC-T20-WC-Data-Analysis","https://github.com/deamrita/SQLPortfolioProject1"],
+        "image_urls":["images/cricket.jpeg","images/covid.jpeg"],
+        "a_links_texts":["ICC-T20-WC-Data-Analysis","Worldwide Covid Data analysis Oct21"],
+        "project_span_texts":["As the ICC Men's T20 World Cup 2021 has been started, here is a Data Analysis of records from past seasons (2007 to 2016) including different viz. like Top Batters with most runs, Best Strike Rates, most no of 6's, players with most no. of catches.",
+        "Worldwide Covid19 Data Analysis for Oct2021."]
         }
     };
     var workAccordionToggle = (element)=>{
