@@ -8,10 +8,10 @@
                     "project_span_texts":["Applying the foundational Python skills by manipulating and visualizing movie and TV data.",
                     "Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market."]
                     },
-        "R" : {"link":[],
+        "R" : {"link":["https://www.r-project.org/"],
         "image_urls":["images/coming soon.jpeg"],
         "a_links_texts":["I am Still exploring and learning R"],
-        "project_span_texts":[]
+        "project_span_texts":["Feel free to suggest me some interesting projects on R"]
         },
         "Tableau" : {"link":["https://public.tableau.com/app/profile/amrita.de7431/viz/ICCT20WC_DataAnalysis/Dashboard1","https://public.tableau.com/app/profile/amrita.de7431/viz/CovidDashboardOct21/Covid19Dashboardworldwide"],
         "image_urls":["images/t1.png","images/t2.png"],
