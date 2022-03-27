@@ -14,7 +14,7 @@
         // "project_span_texts":["Feel free to suggest me some interesting projects on R"]
         // },
         "Tableau" : {"link":["https://public.tableau.com/app/profile/amrita.de7431/viz/IIM_cal_casestudy_HRAnalytics/Story1","https://public.tableau.com/app/profile/amrita.de7431/viz/TableauSpotify_16388657936010/Dashboard1"],
-        "image_urls":["images/HR.png","images/sf.png"],
+        "image_urls":["images/HR.jpg","images/sf.jpg"],
         "a_links_texts":["HR Analytics Dashboard","Top 100 songs on Spotify"],
         "project_span_texts":["Three interactive dashboards in Tableau to deliver key insights into diversity profile, the satisfaction of employees, recruiting sources & pay and attrition.",
         "Top 100 played songs on Spotify"]
